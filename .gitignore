@@ -1,0 +1,15 @@
+# Secrets
+APIConfig.json
+*.env
+
+# Xcode / Swift
+.DS_Store
+xcuserdata/
+DerivedData/
+*.xcuserstate
+*.xccheckout
+*.xcscmblueprint
+
+# SwiftPM
+.build/
+.swiftpm/
