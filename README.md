@@ -1,4 +1,4 @@
-# 🎬 IMDB Clone (SwiftUI)
+# 🎬 Netflix Clone (SwiftUI)
 
 A SwiftUI-based iOS application for discovering movies, searching titles, viewing details, and watching trailers via YouTube integration. The app consumes real-world APIs and follows a clean MVVM-style structure.
 
