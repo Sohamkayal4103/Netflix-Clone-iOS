@@ -4,6 +4,43 @@ A SwiftUI-based iOS application for discovering movies, searching titles, viewin
 
 ---
 
+---
+
+## 📸 Screenshots
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://github.com/user-attachments/assets/a27163ec-412e-4963-923c-74f004a765f1" alt="HomeView" width="260" />
+      <br/><sub><b>HomeView</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://github.com/user-attachments/assets/fc0f2f89-0d27-4791-ae47-89de3c595296" alt="HomeView2" width="260" />
+      <br/><sub><b>HomeView (More)</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://github.com/user-attachments/assets/af06c5e1-7e38-46f7-a225-5f6d694a8551" alt="SearchView" width="260" />
+      <br/><sub><b>SearchView</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://github.com/user-attachments/assets/17d8f3e0-e616-474c-b59c-fb487fbc7a0c" alt="TitleDetailView" width="260" />
+      <br/><sub><b>TitleDetailView</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://github.com/user-attachments/assets/213043c2-dd82-4db1-b3df-90d8ceb721c0" alt="UpcomingView" width="260" />
+      <br/><sub><b>UpcomingView</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://github.com/user-attachments/assets/968fc77a-cf52-4f79-a08f-57248b41121d" alt="DownloadView" width="260" />
+      <br/><sub><b>DownloadView</b></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## ✨ Features
 
 - Browse trending, upcoming, and popular movies  
